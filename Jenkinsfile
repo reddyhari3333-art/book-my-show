@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "bookmyshow-app"
-        DOCKER_REGISTRY = "your-dockerhub-username"
+        DOCKER_REGISTRY = "harireddy2910"
     }
 
     stages {
